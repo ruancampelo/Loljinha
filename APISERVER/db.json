@@ -1,0 +1,60 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Placa Mãe MSI A520M-A PRO, AMD AM4, mATX, DDR4",
+            "img": "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1646852577_gg.jpg",
+            "Description": "A Placa Mãe MSI A520M-A Pro é uma placa Micro-ATX, com dois slots de memória DDR4, que suporta processadores para desktop AMD Ryzen TM 5000 e 3000 Series e até 64 GB de memória do sistema. Tudo isso, somado ao Codec Realtek ® ALC892 / ALC897 – cujo objetivo é deixar qualquer tipo de áudio do seu PC em alta definição – confirmam que a Placa Mãe MSI A520M-A Pro é a escolha perfeita para quem busca uma placa que de forma rápida una todos os componentes do computador, e permita que ele funcione de forma completamente organizada – tendo todas as trocas de informações necessárias entre os processadores, memórias, sistemas de armazenamento e afins.",
+            "price": "439,99",
+            "galery": [
+                {
+                    "1": "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1646852578_gg.jpg",
+                    "2": "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1646852581_gg.jpg",
+                    "3": "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1646852580_gg.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Placa de Vídeo RTX 3060 Asus Dual O12G V2 NVIDIA GeForce, 12GB GDDR6, LHR, DLSS, Ray Tracing - DUAL-RTX3060-O12G-V2",
+            "img": "https://images.kabum.com.br/produtos/fotos/164854/placa-de-video-asus-nvidia-dual-rtx-3060-o12g-v2-15-gbps-12gb-gddr6-ray-tracing-dlss-90yv0gb2-m0na10_1623244899_p.jpg",
+            "Description" : "ASUS TUF Gaming GeForce RTX™ 3060 V2 OC Edition 12GB GDDR6 com design reforçado e desempenho térmico de ponta. NVIDIA Ampere Streaming Multiprocessors: Os blocos de construção para as GPUs mais rápidas e eficientes do mundo, o totalmente novo Ampere SM oferece 2X a taxa de transferência FP32 e maior eficiência de energia. Núcleos RT de 2ª geração: experimente 2X a taxa de transferência dos núcleos RT de 1ª geração, além de RT e sombreamento simultâneos para um nível totalmente novo de desempenho de ray tracing.",
+            "price": "2.299,99",
+            "galery": [
+                {
+                    "1": "https://images.kabum.com.br/produtos/fotos/164854/placa-de-video-asus-nvidia-dual-rtx-3060-o12g-v2-15-gbps-12gb-gddr6-ray-tracing-dlss-90yv0gb2-m0na10_1623244900_gg.jpg",
+                    "2": "https://images.kabum.com.br/produtos/fotos/164854/placa-de-video-asus-nvidia-dual-rtx-3060-o12g-v2-15-gbps-12gb-gddr6-ray-tracing-dlss-90yv0gb2-m0na10_1623244901_gg.jpg",
+                    "3": "https://images.kabum.com.br/produtos/fotos/164854/placa-de-video-asus-nvidia-dual-rtx-3060-o12g-v2-15-gbps-12gb-gddr6-ray-tracing-dlss-90yv0gb2-m0na10_1623244903_gg.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "SSD 480 GB Kingston A400, SATA, Leitura: 500MB/s e Gravação: 450MB/s - SA400S37/480G",
+            "img": "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306114_p.jpg",
+            "Description": "Aqui você encontra HD SSD Kingston 480GB. Sem possuir discos magnéticos em seu interior o SSD traz um desempenho até 10x mais rápido que um HD convencional, uma vez que não possui disco, ele pode ser transportado para qualquer lugar sem risco de perder seus arquivos e informações, além de ter uma durabilidade maior ele exige menos energia para operar, aumentando a vida útil da bateria do seu notebook. Kingston é uma maneira econômica de renovar seu computador e guardar todos os seus momentos com segurança e tranquilidade.",
+            "price": "209,99",
+            "galery": [
+                {
+                    "1": "https://images.kabum.com.br/produtos/fotos/85198/85198_index_gg.jpg",
+                    "2": "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306119_gg.jpg",
+                    "3": "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133546_gg.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nome": "Headset Gamer Havit, Drivers 53mm, Microfone Plugável, P2, PC, PS4, XBOX ONE, Preto - HV-H2002D",
+            "img": "https://images.kabum.com.br/produtos/fotos/102770/headset-gamer-havit-drivers-53mm-hv-h2002d_headset-gamer-havit-drivers-53mm-hv-h2002d_1564056874_p.jpg",
+            "price": "439,99",
+            "Description": "Headset Gamer Havit H2002D Aparência e textura proporcionais, simples e generosas. Jaqueta de liga leve com frente e superfície de plástico com revestimento de piano. Design Gamer em preto, para combinar com seu setup e além de ter qualidade surpreendente por um preço baixo. Head set Gamer Havit com excelente custo benefício. Desempenho e Compatibilidade com PC, PS4 e XBOX Faixa de cabeça ajustável suspensa única, design ergonômico, confortável de usar, antiviolência e não fácil de danificar. À prova de desgaste, resistente a arranhões e atualizado e adequado para pessoas diferentes, o peso de toda a máquina é moderado, desgastando por muito tempo sem pressão. Microfone plugável de 3,5 mm compatível para PC, PS4 e XBOX e Alto-falante magnético de 53 mm de alta qualidade de som para distinguir o som dos jogos e a frequência fracionária alta e baixa meticulosa ao ouvir música. Headset Gamer Havit está no KaBuM!",
+            "galery": [
+                {
+                    "1": "https://images.kabum.com.br/produtos/fotos/102770/headset-gamer-havit-drivers-53mm-hv-h2002d_headset-gamer-havit-drivers-53mm-hv-h2002d_1564056876_p.jpg",
+                    "2": "https://images.kabum.com.br/produtos/fotos/102770/headset-gamer-havit-drivers-53mm-hv-h2002d_headset-gamer-havit-drivers-53mm-hv-h2002d_1564056879_p.jpg",
+                    "3": "https://images.kabum.com.br/produtos/fotos/102770/headset-gamer-havit-drivers-53mm-hv-h2002d_headset-gamer-havit-drivers-53mm-hv-h2002d_1564056883_p.jpg"
+                }
+            ]
+        }
+    ]
+}
