@@ -1,9 +1,14 @@
 import { View,FlatList, ActivityIndicator, Image } from 'react-native';
 import React, {useEffect, useState} from 'react';
-import { Text, Card, Button, Icon } from '@rneui/themed';
+import { Card, Button } from '@rneui/themed';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Detalhes from './Detalhes'
+import Espec from './Especificacao'
+import Duvidas from './Duvidas'
+import Comentarios from './Comentarios'
+import Vendedor from './Vendedor'
+
 
 function Produtos({ navigation }) {
   const [isLoading, setLoading] = useState(true);
@@ -62,6 +67,10 @@ export default function App() {
         <Stack.Navigator>
           <Stack.Screen name="Produtos" component={Produtos} />
           <Stack.Screen name="Detalhes" component={Detalhes} />
+          <Stack.Screen name="Especificacao" component={Espec} />
+          <Stack.Screen name="Duvidas" component={Duvidas} />
+          <Stack.Screen name="Comentarios" component={Comentarios} />
+          <Stack.Screen name="Vendedor" component={Vendedor} />
         </Stack.Navigator>
     );
 }

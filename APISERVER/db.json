@@ -6,25 +6,181 @@
             "img": "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1646852577_gg.jpg",
             "Description": "A Placa Mãe MSI A520M-A Pro é uma placa Micro-ATX, com dois slots de memória DDR4, que suporta processadores para desktop AMD Ryzen TM 5000 e 3000 Series e até 64 GB de memória do sistema. Tudo isso, somado ao Codec Realtek ® ALC892 / ALC897 – cujo objetivo é deixar qualquer tipo de áudio do seu PC em alta definição – confirmam que a Placa Mãe MSI A520M-A Pro é a escolha perfeita para quem busca uma placa que de forma rápida una todos os componentes do computador, e permita que ele funcione de forma completamente organizada – tendo todas as trocas de informações necessárias entre os processadores, memórias, sistemas de armazenamento e afins.",
             "price": "439,99",
-            "galery": [
+            "espec": {
+                "CPU":"Support 3rd Gen AMD Ryzen™ Desktop Processors and AMD Ryzen™ 4000 G-Series Desktop Processors",
+                "M.2": "1x",
+                "CHIPSET":"AMD® A520 Chipset",
+                "Memoria":"Dual channel",
+                "MaxMemoria":"64GB",
+                "TPM": 1,
+                "LAN" :"1x Realtek® RTL8111H Gigabit LAN",
+                "HDMI": "1x",
+                "AUDIO" :"Realtek® ALC892/ALC897 Codec",
+                "Sistema": "Support for Windows® 10 64-bit"
+            },
+            "vendedor": {
+                "nome":"KaBuM!",
+                "telefone": "(11) 94575-7658",
+                "email": "faleconosco@kabum.com.br",
+                "nota": 4.5
+            },
+            "comentarios": [
                 {
-                    "1": "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1646852578_gg.jpg",
-                    "2": "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1646852581_gg.jpg",
-                    "3": "https://images.kabum.com.br/produtos/fotos/280890/placa-mae-msi-a520m-a-pro-amd-am4-matx-ddr4_1646852580_gg.jpg"
+                    "id":1,
+                    "user": "Gustavo Silva",
+                    "comentario": "Gostei muito, coube certinho no meu gabinete",
+                    "data": "14/05/2022",
+                    "nota": 5
+                },
+                {
+
+                    "id":2,
+                    "user": "Paulo Otavio",
+                    "comentario": "Bom",
+                    "data": "15/03/2023",
+                    "nota": 4
+                },
+                {
+
+                    "id":3,
+                    "user": "Angela Moura",
+                    "comentario": "Achei muito boa e bonita ",
+                    "data": "11/01/2021",
+                    "nota": 4
+                },
+                {
+
+                    "id":4,
+                    "user": "Carlos Silva",
+                    "comentario": "Serviu direitinho",
+                    "data": "11/01/2021",
+                    "nota": 4.5
+                },
+                {
+                    "id":5,
+                    "user": "Gustavo Silva",
+                    "comentario": "Gostei muito, coube certinho no meu gabinete",
+                    "data": "14/05/2022",
+                    "nota": 5
+                },
+                {
+
+                    "id":6,
+                    "user": "Paulo Otavio",
+                    "comentario": "Bom",
+                    "data": "15/03/2023",
+                    "nota": 4
+                },
+                {
+                    "id":7,
+                    "user": "Gustavo Silva",
+                    "comentario": "Gostei muito, coube certinho no meu gabinete",
+                    "data": "14/05/2022",
+                    "nota": 5
+                },
+                {
+
+                    "id":8,
+                    "user": "Paulo Otavio",
+                    "comentario": "Bom",
+                    "data": "15/03/2023",
+                    "nota": 4
+                }
+            ],
+            "duvidas":[
+                {
+                    "user": "Gustavo Silva",
+                    "duvida": "Ela possui suporte a processador Intel?",
+                    "resposta": "Não, esse placa só possui surporte para processadores AMD",
+                    "data": "14/05/2022"
+                },
+                {
+                    "user": "Paulo Silva",
+                    "duvida": "Possiu quantos slot para memoria ram?",
+                    "resposta": "4",
+                    "data": "14/05/2022"
+                },
+                {
+                    "user": "Paulo Silva",
+                    "duvida": "posso colocar 32gb de ram?",
+                    "resposta": "Sim, essa placa mãe suporta ate 64GB de ram",
+                    "data": "14/05/2022"
                 }
             ]
         },
         {
             "id": 2,
-            "nome": "Placa de Vídeo RTX 3060 Asus Dual O12G V2 NVIDIA GeForce, 12GB GDDR6, LHR, DLSS, Ray Tracing - DUAL-RTX3060-O12G-V2",
+            "nome": "Placa de Vídeo RTX 3060 Asus Dual O12G V2 NVIDIA GeForce- DUAL-RTX3060-O12G-V2",
             "img": "https://images.kabum.com.br/produtos/fotos/164854/placa-de-video-asus-nvidia-dual-rtx-3060-o12g-v2-15-gbps-12gb-gddr6-ray-tracing-dlss-90yv0gb2-m0na10_1623244899_p.jpg",
             "Description" : "ASUS TUF Gaming GeForce RTX™ 3060 V2 OC Edition 12GB GDDR6 com design reforçado e desempenho térmico de ponta. NVIDIA Ampere Streaming Multiprocessors: Os blocos de construção para as GPUs mais rápidas e eficientes do mundo, o totalmente novo Ampere SM oferece 2X a taxa de transferência FP32 e maior eficiência de energia. Núcleos RT de 2ª geração: experimente 2X a taxa de transferência dos núcleos RT de 1ª geração, além de RT e sombreamento simultâneos para um nível totalmente novo de desempenho de ray tracing.",
             "price": "2.299,99",
-            "galery": [
+            "espec": {
+                "GPU":"Engine: NVIDIA GeForce RTX 3060",
+                "Cuda":3584,
+                "Clock" :"Modo OC: 1867 MHz - Modo Gaming: 1837 MHz",
+                "Memoria" :"12GB - GDDR6",
+                "Interface" : "PCIE 4.0",
+                "Alimentacao": "Conector: 1x 8-pin (PSU recomendado: 650W (mínimo))",
+                "Portas da Vídeo": "1x HDMI 2.1" ,
+                "Recursos":" OpenGL 4.6, DirectX 12 Ultimate, Arquitetura NVIDIA AMPERE, NVIDIA G-SYNC, Ray Tracing ",
+                "Exibição": "Resolução Máxima: 7680 x 4320",
+                "Peso":"880 gramas (bruto com embalagem)"
+            },
+            "vendedor": {
+                "nome":"KaBuM!",
+                "telefone": "(11) 94575-7658",
+                "email": "faleconosco@kabum.com.br",
+                "nota": 4.5
+            },
+            "comentarios": [
                 {
-                    "1": "https://images.kabum.com.br/produtos/fotos/164854/placa-de-video-asus-nvidia-dual-rtx-3060-o12g-v2-15-gbps-12gb-gddr6-ray-tracing-dlss-90yv0gb2-m0na10_1623244900_gg.jpg",
-                    "2": "https://images.kabum.com.br/produtos/fotos/164854/placa-de-video-asus-nvidia-dual-rtx-3060-o12g-v2-15-gbps-12gb-gddr6-ray-tracing-dlss-90yv0gb2-m0na10_1623244901_gg.jpg",
-                    "3": "https://images.kabum.com.br/produtos/fotos/164854/placa-de-video-asus-nvidia-dual-rtx-3060-o12g-v2-15-gbps-12gb-gddr6-ray-tracing-dlss-90yv0gb2-m0na10_1623244903_gg.jpg"
+                    "id":1,
+                    "user": "Gisele Pereira",
+                    "comentario": "Muito boa, os jogos rodam muito bem",
+                    "data": "15/03/2023",
+                    "nota": 4.5
+                },
+                {
+                    "id":2,
+                    "user": "Pedro",
+                    "comentario": "Gostei muito",
+                    "data": "05/12/2023",
+                    "nota": 5
+                },
+                {
+                    "id":3,
+                    "user": "Carlos Moura",
+                    "comentario": "Placa muito boa, roda tudo!!!",
+                    "data": "01/12/2022",
+                    "nota": 5
+                },
+                {
+                    "id":4,
+                    "user": "Bruno da Silva ",
+                    "comentario": "boa",
+                    "data": "01/02/2022",
+                    "nota": 4.5
+                },
+                {
+                    "id":5,
+                    "user": "Ana Clara",
+                    "comentario": "Gostei bastante, roda todos os jogos atuais",
+                    "data": "31/01/2023",
+                    "nota": 5
+                }
+            ],
+            "duvidas":[
+                {
+                    "user": "Paula Silva",
+                    "duvida": "qual fonte de devo usar??",
+                    "resposta": "No minimo uma fonte 600w bronze",
+                    "data": "14/05/2022"
+                },
+                {
+                    "user": "Carlos Moura",
+                    "duvida": "Posso fazer overclock?",
+                    "resposta": "É possivel sim, mas nao e recomendado",
+                    "data": "14/05/2022"
                 }
             ]
         },
@@ -34,25 +190,156 @@
             "img": "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306114_p.jpg",
             "Description": "Aqui você encontra HD SSD Kingston 480GB. Sem possuir discos magnéticos em seu interior o SSD traz um desempenho até 10x mais rápido que um HD convencional, uma vez que não possui disco, ele pode ser transportado para qualquer lugar sem risco de perder seus arquivos e informações, além de ter uma durabilidade maior ele exige menos energia para operar, aumentando a vida útil da bateria do seu notebook. Kingston é uma maneira econômica de renovar seu computador e guardar todos os seus momentos com segurança e tranquilidade.",
             "price": "209,99",
-            "galery": [
+            "espec": {
+                "Formato":"2,5 pol",
+                "Interface":"SATA Rev. 3.0 (6Gb/s) — compatível com a versão anterior SATA Rev. 2.0 (3Gb/s)",
+                "Capacidades":"480GB",
+                "NAND":"TLC",
+                "Performance de referência":"até 500MB/s para leitura e 450MB/s para gravação",
+                "Temperatura de armazenamento":"-40 °C a 85 °C",
+                "Temperatura de operação":"0 °C a 70 °C",
+                "Vibração quando em operação":"2,17G pico (7 – 800 Hz)",
+                "Vibração quando não está em operação":"20G pico (10 – 2000 Hz)",
+                "Expectativa de vida útil":"1 milhão de horas MTB"
+            },
+            "vendedor": {
+                "nome":"Magazine Luiza!",
+                "telefone": "(11) 3401-9875",
+                "email": "faleconosco@maglu.com.br",
+                "nota": 3.5
+            },
+            "comentarios": [
                 {
-                    "1": "https://images.kabum.com.br/produtos/fotos/85198/85198_index_gg.jpg",
-                    "2": "https://images.kabum.com.br/produtos/fotos/85198/85198_1484306119_gg.jpg",
-                    "3": "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133546_gg.jpg"
+                    "id":1,
+                    "user": "Paulo de Andrade",
+                    "comentario": "boa, deixa tudo rapido",
+                    "data": "12/02/2023",
+                    "nota": 4
+                },
+                {
+
+                    "id":2,
+                    "user": "Caio Campos",
+                    "comentario": "Rapida",
+                    "data": "01/06/2022",
+                    "nota": 5
+                },
+                {
+
+                    "id":3,
+                    "user": "Julio Pereira",
+                    "comentario": "muito boa",
+                    "data": "06/02/2021",
+                    "nota": 4
+                },
+                {
+
+                    "id":4,
+                    "user": "Pedro da Silva",
+                    "comentario": "deixou meu pc muito rapido",
+                    "data": "12/12/2022",
+                    "nota": 4.5
+                },
+                {
+
+                    "id":5,
+                    "user": "Carla Oliveira",
+                    "comentario": "Bastante rapida",
+                    "data": "11/09/2023",
+                    "nota": 3.5
+                }
+            ],
+            "duvidas":[
+                {
+                    "user": "Mauro Silva",
+                    "duvida": "Posso usar no linux?",
+                    "resposta": "Sim",
+                    "data": "14/05/2022"
+                },
+                {
+                    "user": "Carlos Moura",
+                    "duvida": "E possivel usar no notebook?",
+                    "resposta": "Infelizmente nao e possivel usar pois o tamanho do ssd e maior que o espaço reservado",
+                    "data": "14/05/2022"
                 }
             ]
         },
         {
             "id": 4,
-            "nome": "Headset Gamer Havit, Drivers 53mm, Microfone Plugável, P2, PC, PS4, XBOX ONE, Preto - HV-H2002D",
+            "nome": "Headset Gamer Havit- HV-H2002D",
             "img": "https://images.kabum.com.br/produtos/fotos/102770/headset-gamer-havit-drivers-53mm-hv-h2002d_headset-gamer-havit-drivers-53mm-hv-h2002d_1564056874_p.jpg",
             "price": "439,99",
-            "Description": "Headset Gamer Havit H2002D Aparência e textura proporcionais, simples e generosas. Jaqueta de liga leve com frente e superfície de plástico com revestimento de piano. Design Gamer em preto, para combinar com seu setup e além de ter qualidade surpreendente por um preço baixo. Head set Gamer Havit com excelente custo benefício. Desempenho e Compatibilidade com PC, PS4 e XBOX Faixa de cabeça ajustável suspensa única, design ergonômico, confortável de usar, antiviolência e não fácil de danificar. À prova de desgaste, resistente a arranhões e atualizado e adequado para pessoas diferentes, o peso de toda a máquina é moderado, desgastando por muito tempo sem pressão. Microfone plugável de 3,5 mm compatível para PC, PS4 e XBOX e Alto-falante magnético de 53 mm de alta qualidade de som para distinguir o som dos jogos e a frequência fracionária alta e baixa meticulosa ao ouvir música. Headset Gamer Havit está no KaBuM!",
-            "galery": [
+            "Description": "Headset Gamer Havit H2002D Aparência e textura proporcionais, simples e generosas. Jaqueta de liga leve com frente e superfície de plástico com revestimento de piano. Design Gamer em preto, para combinar com seu setup e além de ter qualidade surpreendente por um preço baixo. Head set Gamer Havit com excelente custo benefício. Desempenho e Compatibilidade com PC, PS4 e XBOX Faixa de cabeça ajustável suspensa única, design ergonômico, confortável de usar, antiviolência e não fácil de danificar. À prova de desgaste, resistente a arranhões e atualizado e adequado para pessoas diferentes, o peso de toda a máquina é moderado, desgastando por muito tempo sem pressão. Microfone plugável de 3,5 mm compatível para PC, PS4 e XBOX e Alto-falante magnético.",
+            "espec": {
+                "Alto-falante": "53 mm",
+                "Impedância": "64 +/- 15%",
+                "Sensibilidade": "110 dB +/- 3dB",
+                "Resposta de Freqüência":"20 Hz a 20 khz",
+                "Microfone":"6.0 x 2.2 mm",
+                "Corrente de funcionamento": "<80 mAX",
+                "Comprimento do cabo": "1.7 metros",
+                "Plug": "3.5 mm",
+                "Compatibilidade": "PC / PS4 / XBOX ONE"
+            },
+            "vendedor": {
+                "nome":"Pichau!",
+                "telefone": "(11) 99758-4758",
+                "email": "atendimento@pichau.com.br",
+                "nota": 5
+            },
+            "comentarios": [
                 {
-                    "1": "https://images.kabum.com.br/produtos/fotos/102770/headset-gamer-havit-drivers-53mm-hv-h2002d_headset-gamer-havit-drivers-53mm-hv-h2002d_1564056876_p.jpg",
-                    "2": "https://images.kabum.com.br/produtos/fotos/102770/headset-gamer-havit-drivers-53mm-hv-h2002d_headset-gamer-havit-drivers-53mm-hv-h2002d_1564056879_p.jpg",
-                    "3": "https://images.kabum.com.br/produtos/fotos/102770/headset-gamer-havit-drivers-53mm-hv-h2002d_headset-gamer-havit-drivers-53mm-hv-h2002d_1564056883_p.jpg"
+                    "id":1,
+                    "user": "Paulo de Andrade",
+                    "comentario": " Muito bom, escutor tudo muito bem",
+                    "data": "12/12/2022",
+                    "nota": 4
+                },
+                {
+
+                    "id":2,
+                    "user": "Amanada Clack",
+                    "comentario": "Bastante potente",
+                    "data": "08/09/2023",
+                    "nota": 5
+                },
+                {
+
+                    "id":3,
+                    "user": "Maicon da Silva",
+                    "comentario": "Muito bom",
+                    "data": "08/09/2023",
+                    "nota": 4
+                },
+                {
+
+                    "id":4,
+                    "user": "Isaac Martins",
+                    "comentario": "qualidade boa",
+                    "data": "12/06/2023",
+                    "nota": 4.5
+                },
+                {
+
+                    "id":5,
+                    "user": "Gustavo de Oliveira",
+                    "comentario": "Achei bastante abafado",
+                    "data": "03/03/2022",
+                    "nota": 3.5
+                }
+            ],
+            "duvidas":[
+                {
+                    "user": "Carla Andrade",
+                    "duvida": "Posso usar no linux?",
+                    "resposta": "Sim",
+                    "data": "14/05/2022"
+                },
+                {
+                    "user": "Paulo da Silva",
+                    "duvida": "posso usar no meu celular?",
+                    "resposta": "E possivel sim",
+                    "data": "14/05/2022"
                 }
             ]
         }
