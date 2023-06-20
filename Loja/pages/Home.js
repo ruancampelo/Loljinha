@@ -29,15 +29,15 @@ function Produtos({ navigation }) {
   useEffect(() => {
     getData();
   }, []);
-
-
+  
+  
   return (
     <View style={{flex: 1, padding: 24}}>
       {isLoading ? (
         <ActivityIndicator />
       ) : (
         <FlatList
-          data={data}
+          data={data.produtos}
           keyExtractor={({id}) => id}
           renderItem={({item}) => (
             <Card>
