@@ -16,7 +16,7 @@ function Produtos({ navigation }) {
   
   const getData = async () => {
     try {
-      const response = await fetch('http://localhost:3000/produtos');
+      const response = await fetch('https://run.mocky.io/v3/3a46e8c2-d08c-4407-8d75-847c7dff89f8');
       const json = await response.json();
       setData(json);
     } catch (error) {
